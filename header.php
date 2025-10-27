@@ -16,4 +16,3 @@
     <a href="#contact" style="color:white; text-decoration:none; margin:0 20px;">Contact</a>
   </nav>
 </header>    
-<h2> This is a header</h2>
