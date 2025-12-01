@@ -611,3 +611,60 @@ Use it to make something cool, have fun, and share what you've learned with othe
 .comment-form input[type="submit"]:hover {
   background: #1e3c8c;
 }
+
+/* Front page */
+
+.imazhi1 {
+  width: 100vw;
+  margin-top: 0px;
+}
+
+.first-header {
+  margin-bottom: 550px;
+  margin-top: -550px;
+  margin-left: 840px;
+  color: white;
+  font-family: monospace ;
+}
+
+.first-header3 {
+  margin-bottom: 150px;
+  margin-top: -150px;
+  margin-left: 100px;
+  color: white;
+  font-family: monospace ;
+}
+.modeli3 {
+  margin-left: 380px;
+  width: 60vw;
+}
+.modeliX {
+  margin-left: 380px;
+  width: 300px;
+}
+.first-header4 {
+  margin-bottom: 90px;
+  margin-top: -0px;
+  margin-left: 840px;
+  color:#1e3c8c;
+  font-family: monospace ;
+}
+.first-header5 {
+  margin-bottom: 90px;
+  margin-top: -0px;
+  margin-left: 360px;
+  color:#1e3c8c;
+  width: 550px;
+  font-family: monospace ;
+}
+.frigo {
+  margin-top: 250px;
+  margin-bottom: 360px;
+}
+img{
+  transition: all 0.1s;
+}
+img:hover{
+  transform: scale(1.1);
+  
+}
